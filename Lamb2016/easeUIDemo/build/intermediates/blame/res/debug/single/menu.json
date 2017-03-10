@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\SOFT\\AS\\workspace\\Lamb2016\\easeUIDemo\\build\\intermediates\\res\\merged\\debug\\menu\\em_remove_from_blacklist.xml",
+        "source": "D:\\SOFT\\AS\\workspace\\Lamb2016\\easeUIDemo\\src\\main\\res\\menu\\em_remove_from_blacklist.xml"
+    },
+    {
+        "merged": "D:\\SOFT\\AS\\workspace\\Lamb2016\\easeUIDemo\\build\\intermediates\\res\\merged\\debug\\menu\\em_context_tab_contact.xml",
+        "source": "D:\\SOFT\\AS\\workspace\\Lamb2016\\easeUIDemo\\src\\main\\res\\menu\\em_context_tab_contact.xml"
+    },
+    {
+        "merged": "D:\\SOFT\\AS\\workspace\\Lamb2016\\easeUIDemo\\build\\intermediates\\res\\merged\\debug\\menu\\em_context_contact_list.xml",
+        "source": "D:\\SOFT\\AS\\workspace\\Lamb2016\\easeUIDemo\\src\\main\\res\\menu\\em_context_contact_list.xml"
+    },
+    {
+        "merged": "D:\\SOFT\\AS\\workspace\\Lamb2016\\easeUIDemo\\build\\intermediates\\res\\merged\\debug\\menu\\em_delete_message.xml",
+        "source": "D:\\SOFT\\AS\\workspace\\Lamb2016\\easeUIDemo\\src\\main\\res\\menu\\em_delete_message.xml"
+    },
+    {
+        "merged": "D:\\SOFT\\AS\\workspace\\Lamb2016\\easeUIDemo\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\SOFT\\AS\\workspace\\Lamb2016\\easeUIDemo\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\SOFT\\AS\\workspace\\Lamb2016\\easeUIDemo\\build\\intermediates\\res\\merged\\debug\\menu\\em_delete_contact.xml",
+        "source": "D:\\SOFT\\AS\\workspace\\Lamb2016\\easeUIDemo\\src\\main\\res\\menu\\em_delete_contact.xml"
+    }
+]

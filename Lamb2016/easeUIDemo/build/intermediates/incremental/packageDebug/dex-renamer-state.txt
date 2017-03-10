@@ -1,0 +1,7 @@
+#Thu Oct 06 20:30:54 CST 2016
+base.0=D\:\\SOFT\\AS\\workspace\\Lamb2016\\easeUIDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_08e441d9ded7243ca2731e9f2b43198c8e7fed35
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\SOFT\\AS\\workspace\\Lamb2016\\easeUIDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1011fb38fe3531c2758aeec106df02c27689f2aa\\classes.dex
+base.1=D\:\\SOFT\\AS\\workspace\\Lamb2016\\easeUIDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1011fb38fe3531c2758aeec106df02c27689f2aa
+file.0=D\:\\SOFT\\AS\\workspace\\Lamb2016\\easeUIDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_08e441d9ded7243ca2731e9f2b43198c8e7fed35\\classes.dex

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Lamb2016\easeUIDemo\libs\bolts-android-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="D:\Lamb2016\easeUIDemo\build\intermediates\transforms\dex\debug\folders\1000\2\bolts-android-1.2.0_7381a36d5cbe1c8c188b454af43213d3713c69c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SOFT\AS\workspace\Lamb2016\easeUIDemo\build\intermediates\exploded-aar\Lamb2016\easeUI\unspecified\jars\libs\locSDK_3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6193b46ac4351227546921445a22b9c771e4cebf">
+        <dex dex="D:\SOFT\AS\workspace\Lamb2016\easeUIDemo\build\intermediates\transforms\dex\debug\folders\1000\8\locSDK_3.3_9bc8ea9677cfbff851f8b6609ed35984fd836816\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SOFT\AS\workspace\Lamb2016\easeUIDemo\libs\xUtils-2.6.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="706db57636e6687c4d38d7b62a92d06b027e9952">
+        <dex dex="D:\SOFT\AS\workspace\Lamb2016\easeUIDemo\build\intermediates\transforms\dex\debug\folders\1000\2\xUtils-2.6.8_2a436410a1daa9f5051968bdb08210c9284b7858\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lamb2016\easeUIDemo\libs\xUtils-2.6.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="706db57636e6687c4d38d7b62a92d06b027e9952">
+        <dex dex="D:\Lamb2016\easeUIDemo\build\intermediates\transforms\dex\debug\folders\1000\2\xUtils-2.6.8_a143f3429716125e0e35daee9c0a61ab998cba03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lamb2016\easeUIDemo\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="44ce173a34392b732cf5cdb559b7c4488430021e">
+        <dex dex="D:\Lamb2016\easeUIDemo\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6efbe1469970e8ce2a8c92b709a81e81d1d01664\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lamb2016\easeUIDemo\build\intermediates\exploded-aar\Lamb2016\easeUI\unspecified\jars\libs\baidumapapi_v3_2_0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e9257daf92102e2841c78db268dc82dc7590bc4f">
+        <dex dex="D:\Lamb2016\easeUIDemo\build\intermediates\transforms\dex\debug\folders\1000\8\baidumapapi_v3_2_0_e03864cfd584358fa567bdc3682a85a6f187db23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lamb2016\easeUIDemo\build\intermediates\exploded-aar\Lamb2016\easeUI\unspecified\jars\libs\picasso-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2348628bf27a67ce8d1ed7f23247975f83c10564">
+        <dex dex="D:\Lamb2016\easeUIDemo\build\intermediates\transforms\dex\debug\folders\1000\8\picasso-2.4.0_73c0808876d003167c288dc2afdf49cafceb8586\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lamb2016\easeUIDemo\build\intermediates\exploded-aar\Lamb2016\easeUI\unspecified\jars\libs\google-play-services.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="dc8ba9e80c63fa62ffe4130ae3487a2ec25912ef">
+        <dex dex="D:\Lamb2016\easeUIDemo\build\intermediates\transforms\dex\debug\folders\1000\8\google-play-services_38fe5dc59f7939fc99fa4be7a910e4bcb2739a44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SOFT\AS\workspace\Lamb2016\easeUIDemo\libs\umeng-analytics-v5.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0f9eccf79ae6006e4346725b09114182dca0c023">
+        <dex dex="D:\SOFT\AS\workspace\Lamb2016\easeUIDemo\build\intermediates\transforms\dex\debug\folders\1000\2\umeng-analytics-v5.2.4_7e34fbecb4992f0f4195495d43792c54ec761b01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lamb2016\easeUIDemo\build\intermediates\exploded-aar\Lamb2016\easeUI\unspecified\jars\libs\locSDK_3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6193b46ac4351227546921445a22b9c771e4cebf">
+        <dex dex="D:\Lamb2016\easeUIDemo\build\intermediates\transforms\dex\debug\folders\1000\8\locSDK_3.3_c9740c82dae4c36d7940a6715ca70b9cec188953\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SOFT\AS\workspace\Lamb2016\easeUIDemo\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="D:\SOFT\AS\workspace\Lamb2016\easeUIDemo\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-20.0.0_0e38af1e80e65ac2cc80684ce7acb4719941ec42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SOFT\AS\workspace\Lamb2016\easeUIDemo\build\intermediates\exploded-aar\Lamb2016\easeUI\unspecified\jars\libs\picasso-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2348628bf27a67ce8d1ed7f23247975f83c10564">
+        <dex dex="D:\SOFT\AS\workspace\Lamb2016\easeUIDemo\build\intermediates\transforms\dex\debug\folders\1000\8\picasso-2.4.0_6aa10e28726d5fe0e88070e62da5b2276c74a926\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SOFT\AS\workspace\Lamb2016\easeUIDemo\build\intermediates\exploded-aar\Lamb2016\easeUI\unspecified\jars\libs\google-play-services.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="dc8ba9e80c63fa62ffe4130ae3487a2ec25912ef">
+        <dex dex="D:\SOFT\AS\workspace\Lamb2016\easeUIDemo\build\intermediates\transforms\dex\debug\folders\1000\8\google-play-services_93394f890511cf5817091d724fbf835046bc035a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SOFT\AS\workspace\Lamb2016\easeUIDemo\libs\bolts-android-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="D:\SOFT\AS\workspace\Lamb2016\easeUIDemo\build\intermediates\transforms\dex\debug\folders\1000\2\bolts-android-1.2.0_636a2a4f3494e4304499575d432371de62c42abd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SOFT\AS\workspace\Lamb2016\easeUIDemo\build\intermediates\exploded-aar\Lamb2016\easeUI\unspecified\jars\libs\easemobchat_2.2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9bd62c324f2f5c7e06e94d3ce31a92c31f6bcdc6">
+        <dex dex="D:\SOFT\AS\workspace\Lamb2016\easeUIDemo\build\intermediates\transforms\dex\debug\folders\1000\8\easemobchat_2.2.3_fc22fd9cb3c9ceec583bfb1c11fd13ecf4b0b62a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SOFT\AS\workspace\Lamb2016\easeUIDemo\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5414f50d5fd8df90247f0f32da57a2981676cd95">
+        <dex dex="D:\SOFT\AS\workspace\Lamb2016\easeUIDemo\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1011fb38fe3531c2758aeec106df02c27689f2aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lamb2016\easeUIDemo\libs\umeng-analytics-v5.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0f9eccf79ae6006e4346725b09114182dca0c023">
+        <dex dex="D:\Lamb2016\easeUIDemo\build\intermediates\transforms\dex\debug\folders\1000\2\umeng-analytics-v5.2.4_1802b53ede24ee0c76a525fe8526e6bbac0417c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SOFT\AS\workspace\Lamb2016\easeUIDemo\build\intermediates\exploded-aar\Lamb2016\easeUI\unspecified\jars\libs\baidumapapi_v3_2_0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e9257daf92102e2841c78db268dc82dc7590bc4f">
+        <dex dex="D:\SOFT\AS\workspace\Lamb2016\easeUIDemo\build\intermediates\transforms\dex\debug\folders\1000\8\baidumapapi_v3_2_0_2e6b852c61f9bacdf004ff3ebe6769e4fac1e420\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SOFT\AS\workspace\Lamb2016\easeUIDemo\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c9ae25582652a89261b9b5a0826d8cb5dc15fcb5">
+        <dex dex="D:\SOFT\AS\workspace\Lamb2016\easeUIDemo\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_08e441d9ded7243ca2731e9f2b43198c8e7fed35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SOFT\AS\workspace\Lamb2016\easeUIDemo\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="D:\SOFT\AS\workspace\Lamb2016\easeUIDemo\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-20.0.0_e5d7fd56579fc1cdc8a5eb1e740d0512f0ee95b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lamb2016\easeUIDemo\libs\Parse-1.9.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="56c22930b5d4f77015b6a40c7f14103d3e101001">
+        <dex dex="D:\Lamb2016\easeUIDemo\build\intermediates\transforms\dex\debug\folders\1000\2\Parse-1.9.4_2defc141d3d67e8c89343a2044d54ad3eaae200a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lamb2016\easeUIDemo\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="21ae22e2a8aec8d6819385fc97db7ddadea5e430">
+        <dex dex="D:\Lamb2016\easeUIDemo\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_452eb77c91a318e8b027c20b94ea4293e67b9e66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lamb2016\easeUIDemo\build\intermediates\exploded-aar\Lamb2016\easeUI\unspecified\jars\libs\easemobchat_2.2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9bd62c324f2f5c7e06e94d3ce31a92c31f6bcdc6">
+        <dex dex="D:\Lamb2016\easeUIDemo\build\intermediates\transforms\dex\debug\folders\1000\8\easemobchat_2.2.3_af0ffb97f0a326a0a8bd46e136c122e06f745821\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SOFT\AS\workspace\Lamb2016\easeUIDemo\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\SOFT\AS\workspace\Lamb2016\easeUIDemo\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_1221c576faa88d775bdd6890ec027ef4fc810557\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="D:\SOFT\AS\workspace\Lamb2016\easeUIDemo\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-20.0.0_f05a2a8c85b5425e197bfaee256dc9d8bace8802\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SOFT\AS\workspace\Lamb2016\easeUIDemo\libs\Parse-1.9.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="56c22930b5d4f77015b6a40c7f14103d3e101001">
+        <dex dex="D:\SOFT\AS\workspace\Lamb2016\easeUIDemo\build\intermediates\transforms\dex\debug\folders\1000\2\Parse-1.9.4_f4f4f23e9511a8dd7a5cc4c3c3494f9d7d1a50a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SOFT\AS\workspace\Lamb2016\easeUIDemo\build\intermediates\exploded-aar\Lamb2016\easeUI\unspecified\jars\libs\org.apache.http.legacy.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="49bc2d83ccb0cfe1dbc853e3ba80db0f950ed96d">
+        <dex dex="D:\SOFT\AS\workspace\Lamb2016\easeUIDemo\build\intermediates\transforms\dex\debug\folders\1000\8\org.apache.http.legacy_67b7749e9e609c9d5c01e1e3afa4e7907e171811\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Lamb2016\easeUIDemo\build\intermediates\exploded-aar\Lamb2016\easeUI\unspecified\jars\libs\org.apache.http.legacy.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="49bc2d83ccb0cfe1dbc853e3ba80db0f950ed96d">
+        <dex dex="D:\Lamb2016\easeUIDemo\build\intermediates\transforms\dex\debug\folders\1000\8\org.apache.http.legacy_e48cf520c56bdfa67a2edac2f8966a8bde7144b5\classes.dex" />
+    </item>
+
+</items>
